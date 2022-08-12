@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Домашние задания GB\DotnetDZ\Dotnet_dz_01\Dotnet_dz_02\obj\Debug\net6.0\Dotnet_dz_02.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Домашние задания GB\DotnetDZ\Dotnet_dz_01\Dotnet_dz_02\obj\Debug\net6.0\Dotnet_dz_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Домашние задания GB\DotnetDZ\Dotnet_dz_01\Dotnet_dz_02\obj\Debug\net6.0\Dotnet_dz_02.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Домашние задания GB\DotnetDZ\Dotnet_dz_01\Dotnet_dz_02\obj\Debug\net6.0\Dotnet_dz_02.AssemblyInfo.cs
+C:\Users\HP\Desktop\Домашние задания GB\DotnetDZ\Dotnet_dz_01\Dotnet_dz_02\obj\Debug\net6.0\Dotnet_dz_02.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Домашние задания GB\DotnetDZ\Dotnet_dz_01\Dotnet_dz_02\bin\Debug\net6.0\Dotnet_dz_02.exe
+C:\Users\HP\Desktop\Домашние задания GB\DotnetDZ\Dotnet_dz_01\Dotnet_dz_02\bin\Debug\net6.0\Dotnet_dz_02.deps.json
+C:\Users\HP\Desktop\Домашние задания GB\DotnetDZ\Dotnet_dz_01\Dotnet_dz_02\bin\Debug\net6.0\Dotnet_dz_02.runtimeconfig.json
+C:\Users\HP\Desktop\Домашние задания GB\DotnetDZ\Dotnet_dz_01\Dotnet_dz_02\bin\Debug\net6.0\Dotnet_dz_02.dll
+C:\Users\HP\Desktop\Домашние задания GB\DotnetDZ\Dotnet_dz_01\Dotnet_dz_02\bin\Debug\net6.0\Dotnet_dz_02.pdb
+C:\Users\HP\Desktop\Домашние задания GB\DotnetDZ\Dotnet_dz_01\Dotnet_dz_02\obj\Debug\net6.0\Dotnet_dz_02.dll
+C:\Users\HP\Desktop\Домашние задания GB\DotnetDZ\Dotnet_dz_01\Dotnet_dz_02\obj\Debug\net6.0\refint\Dotnet_dz_02.dll
+C:\Users\HP\Desktop\Домашние задания GB\DotnetDZ\Dotnet_dz_01\Dotnet_dz_02\obj\Debug\net6.0\Dotnet_dz_02.pdb
+C:\Users\HP\Desktop\Домашние задания GB\DotnetDZ\Dotnet_dz_01\Dotnet_dz_02\obj\Debug\net6.0\Dotnet_dz_02.genruntimeconfig.cache
+C:\Users\HP\Desktop\Домашние задания GB\DotnetDZ\Dotnet_dz_01\Dotnet_dz_02\obj\Debug\net6.0\ref\Dotnet_dz_02.dll
